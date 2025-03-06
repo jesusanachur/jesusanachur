@@ -18,13 +18,6 @@ Soy un apasionado desarrollador de software y me encanta aprender cosas nuevas t
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-## Proyectos destacados
-
-### [Proyecto 1: Aplicación de gestión de tareas](URL-del-proyecto)
-Descripción breve del proyecto y sus características principales.
-
-### [Proyecto 2: Sitio web personal](URL-del-proyecto)
-Descripción breve del proyecto y sus características principales.
 
 ## Conéctate conmigo
 
