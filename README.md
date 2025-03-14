@@ -1,7 +1,10 @@
 # ¡Hola, soy Jesús! 👋
 
 Soy un apasionado desarrollador de software y me encanta aprender cosas nuevas todos los días. Aquí tienes un poco más sobre mí:
-
+<body style="background: linear-gradient(135deg, #f5f5f5, #e0e0e0); color: #333; font-family: 'Poppins', sans-serif; margin: 0; padding: 0;">
+<p align="center" style="margin: 20px 0;">
+    <img src="imagenes/Fondo1.png" alt="Fondo1" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);" />
+  </p>
 - 🌱 Actualmente estoy aprendiendo **Go** y **Django**
 - 🔭 Estoy trabajando en varios proyectos personales, incluyendo una aplicación app para prender idiomas 
 - 🤝 Estoy buscando colaborar en proyectos de **código abierto**
