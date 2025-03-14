@@ -3,11 +3,10 @@
 Soy un apasionado desarrollador de software y me encanta aprender cosas nuevas todos los días. Aquí tienes un poco más sobre mí:
 
 - 🌱 Actualmente estoy aprendiendo **Go** y **Django**
-- 🔭 Estoy trabajando en varios proyectos personales, incluyendo una aplicación de gestión de tareas
+- 🔭 Estoy trabajando en varios proyectos personales, incluyendo una aplicación app para prender idiomas 
 - 🤝 Estoy buscando colaborar en proyectos de **código abierto**
 - 📫 Puedes contactarme en (anachurycastro2001@gmail.com)
 - 📞 Mi número de contacto: +57 311 244 5775
-- ⚡ Dato curioso: Soy un ávido coleccionista de libros antiguos
 
 ## Tecnologías y herramientas
 
@@ -18,13 +17,19 @@ Soy un apasionado desarrollador de software y me encanta aprender cosas nuevas t
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-
 ## Conéctate conmigo
 
 - [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-david-anachury-castro-762776273/)
 - [Github](https://github.com/jesusanachur)
 
 ---
+
+## Contador de visitas
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjesusanachur&label=Visitas&labelColor=%23000000&countColor=%23d9e3f0)
+
+---
+
 <div align="center">
 
   <table>
@@ -39,5 +44,6 @@ Soy un apasionado desarrollador de software y me encanta aprender cosas nuevas t
   </table>
 
 </div>
+
 ¡Gracias por visitar mi perfil! 😊
 
