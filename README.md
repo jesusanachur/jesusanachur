@@ -1,52 +1,80 @@
+
+
+# ¡Hola, soy Jesús! 👋💻
+
 <div align="center">
-  <img src="https://www.canva.com/design/DAGhuvcVXg4/P_YTUWvCMEOcjXZkim0RIg/edit?ui=eyJEIjp7IlAiOnsiQiI6ZmFsc2V9fX0" alt="Banner" style="width: 100%; height: auto;">
+  
+![Header](https://github.com/jesusanachur/jesusanachur/blob/main/assets/banner.gif?raw=true)
+
 </div>
 
-# ¡Hola, soy Jesús! 👋
+Soy un apasionado desarrollador full-stack con amor por el código limpio y soluciones innovadoras. ¡Aprendizaje continuo es mi lema!
 
-Soy un apasionado desarrollador de software y me encanta aprender cosas nuevas todos los días. Aquí tienes un poco más sobre mí:
+## 🌱 Mi Mundo Tech
 
-- 🌱 Actualmente estoy aprendiendo **Go** y **Django**
-- 🔭 Estoy trabajando en varios proyectos personales, incluyendo una aplicación app para prender idiomas 
-- 🤝 Estoy buscando colaborar en proyectos de **código abierto**
-- 📫 Puedes contactarme en (anachurycastro2001@gmail.com)
-- 📞 Mi número de contacto: +57 311 244 5775
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🚀 Actualmente</h3>
+      <ul>
+        <li>Aprendiendo <strong>Go</strong> y <strong>Django</strong></li>
+        <li>Construyendo una app para aprender idiomas</li>
+        <li>Colaborando en proyectos <strong>open-source</strong></li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>📬 Contáctame</h3>
+      <ul>
+        <li>📧 <a href="mailto:anachurycastro2001@gmail.com">anachurycastro2001@gmail.com</a></li>
+        <li>📞 +57 311 244 5775</li>
+        <li>💼 <a href="https://www.linkedin.com/in/jes%C3%BAs-david-anachury-castro-762776273/">LinkedIn</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## Tecnologías y herramientas
+## 🛠️ Stack Tecnológico
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-## Conéctate conmigo
-
-- [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-david-anachury-castro-762776273/)
-- [Github](https://github.com/jesusanachur)
-
----
-
-## Contador de visitas
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjesusanachur&label=🚀%20Visitas&labelColor=%23007bff&countColor=%23ffc107&style=for-the-badge)
-
----
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=jesusanachur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jesusanachur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-      </td>
-    </tr>
-  </table>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-¡Gracias por visitar mi perfil! 😊
+## 📊 Mis Estadísticas
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jesusanachur&theme=radical&border_radius=5&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusanachur&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+## 🌟 Proyectos Destacados
+
+<div align="center">
+
+| Proyecto       | Descripción          | Tech Stack  |
+|----------------|----------------------|-------------|
+| [App Idiomas]() | Aprendizaje de idiomas | Django, MongoDB |
+| [SQL Explorer]() | Herramienta SQL visual | Java, SQL Server |
+
+</div>
+
+## 🎨 Divertimento Creativo
+
+```python
+def vida_developer():
+    while True:
+        codigo = aprender()
+        if codigo.mejora():
+            celebrar()
+        else:
+            debuggear()
