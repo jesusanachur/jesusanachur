@@ -1,5 +1,4 @@
 
-## 📊 Mis Estadísticas
 
 <div align="center">
   
@@ -61,7 +60,7 @@ Soy un apasionado desarrollador full-stack con amor por el código limpio y solu
 | [SQL Explorer]() | Herramienta SQL visual | Java, SQL Server |
 
 </div>
-
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jesusanachur.jesusanachur)
 ## 🎨 Divertimento Creativo
 
 ```python
