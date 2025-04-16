@@ -1,12 +1,9 @@
 
-
-# ¡Hola, soy Jesús! 👋💻
+## 📊 Mis Estadísticas
 
 <div align="center">
   
-![Header](https://github.com/jesusanachur/jesusanachur/blob/main/assets/banner.gif?raw=true)
-
-</div>
+# ¡Hola, soy Jesús David! 👋💻
 
 Soy un apasionado desarrollador full-stack con amor por el código limpio y soluciones innovadoras. ¡Aprendizaje continuo es mi lema!
 
@@ -47,9 +44,6 @@ Soy un apasionado desarrollador full-stack con amor por el código limpio y solu
 
 </div>
 
-## 📊 Mis Estadísticas
-
-<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jesusanachur&theme=radical&border_radius=5&mode=weekly)](https://git.io/streak-stats)
 
